@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="8700 13350 3600 3000">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#362D78}
+    .fil1 {fill:#FFC715}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2750546006976">
+   <polygon class="fil0" points="10100,14150 12300,14150 11600,13350 10100,13350 "/>
+   <path class="fil0" d="M10100 16150c-773,0 -1400,-627 -1400,-1400 0,-773 627,-1400 1400,-1400l0 800c-331,0 -600,269 -600,600 0,331 269,600 600,600l0 800z"/>
+   <polygon class="fil0" points="10100,16150 10200,16150 10400,15350 10100,15350 "/>
+   <path class="fil0" d="M11100 15350c66,66 96,141 94,200 128,-1 137,-169 6,-300 -283,-285 -800,-438 -800,-1100 0,959 417,915 700,1200z"/>
+   <path class="fil1" d="M11200 15250c131,132 122,300 -7,300l-743 0 -200 800 1300 0c374,0 750,-372 750,-800 -1,-696 -1000,-1020 -1000,-1400l-900 0c0,662 517,815 800,1100z"/>
+  </g>
+ </g>
+</svg>
