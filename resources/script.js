@@ -70,9 +70,14 @@
     });
   }
 
-  /* ---------- Τρέχον έτος στο copyright ---------- */
+  /* ---------- Έτη στο copyright ---------- */
   var yearEl = document.getElementById("year");
   if (yearEl) {
-    yearEl.textContent = String(new Date().getFullYear());
+    var baseYear = 2026;
+    var currentYear = new Date().getFullYear(); // Πχ 2028
+
+    yearEl.textContent = currentYear > baseYear
+      ? String(baseYear) + "-" + String(currentYear)
+      : String(baseYear);
   }
 })();
